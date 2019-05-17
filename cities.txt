@@ -1,0 +1,15 @@
+91,67,Agra,Uttar Pradesh,33,19
+90,67,Allahabad,Uttar Pradesh,32,19
+87,60,Amritsar,Punjab,30,15
+89,66,Bhopal,Madhya Pradesh,34,19
+87,62,Chandigarh,Chandigarh,30,17
+82,60,Dehradun,Uttarakhand,28,15
+89,64,Indore,Madhya Pradesh,32,18
+89,65,Lucknow,Uttar Pradesh,40,18
+86,63,Ludhiana,Punjab,30,17
+65,47,Mukteswar,Uttarakhand,19,8
+88,66,New Delhi,Delhi,31,19
+89,67,Patna,Bihar,31,20
+62,50,Shimla,Himachal Pradesh,17,10
+67,45,Srinagar,Jammu and Kashmir,20,7
+90,67,Varanasi,Uttar Pradesh,32,19

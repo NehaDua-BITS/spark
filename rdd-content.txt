@@ -1,0 +1,1 @@
+{"empty":false,"storageLevel":{"valid":false},"numPartitions":1,"checkpointed":false,"checkpointFile":{"present":false}}
